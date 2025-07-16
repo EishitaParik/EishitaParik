@@ -8,22 +8,12 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE @ VIT Bhopal | CGPA: 9.19
-- 🛠️ I work with **ReactJS, NextJS, NodeJS, MongoDB, Tailwind, Firebase**
-- ☁️ AWS Certified Solutions Architect | Salesforce Certified
-- 🤖 Interested in AI, ML & Cloud Projects
-- 📍 From Dhupguri, West Bengal
-- ✨ Always building and learning
-
----
-
-### 💼 Projects
-
-| Name | Description | Tech Stack | Demo |
-|------|-------------|------------|------|
-| **[CoinCapita](https://coincapita.vercel.app/)** | AI-powered expense tracker with receipt scanning and charts | Next.js, Clerk, Gemini API, Prisma, Resend, Tailwind | ✅ Live |
-| **[PinkShield](https://pinkshield.onrender.com/)** | Breast cancer prediction using ML | Python, Flask, ML | ✅ Live |
-| **[Task Manager](https://task-manager-seven-black.vercel.app/)** | Minimal task manager web app | ReactJS, Tailwind | ✅ Live |
+- 🎓 B.Tech CSE @ VIT Bhopal  
+- 🛠️ I work with **ReactJS, NextJS, NodeJS, MongoDB, Tailwind, Firebase**  
+- ☁️ AWS Certified Solutions Architect | Salesforce Certified  
+- 🤖 Interested in AI, ML & Cloud Projects  
+- 📍 From West Bengal  
+- ✨ Always building and learning  
 
 ---
 
@@ -43,13 +33,20 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EishitaParik&theme=radical&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
-- ✉️ parikeishita@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eishita-parik-298040239)  
 - 💻 [Portfolio Website](https://coincapita.vercel.app/)  
-- 🐍 [LeetCode](https://leetcode.com/u/EishitaParik/) | [GFG](https://www.geeksforgeeks.org/user/eishitadrxo/)
 
 ---
 
 ⭐️ *Feel free to check out my repositories and connect with me!*
+
