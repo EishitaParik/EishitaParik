@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech CSE @ VIT Bhopal  
-- 🛠️ I work with **ReactJS, NextJS, NodeJS, MongoDB, Tailwind, Firebase**  
+- 🛠️ I work with **ReactJS, NextJS, NodeJS, MongoDB, Tailwind, Supabase**  
 - ☁️ AWS Certified Solutions Architect | Salesforce Certified  
 - 🤖 Interested in AI, ML & Cloud Projects  
 - 📍 From West Bengal  
