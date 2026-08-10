@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE @ VIT Bhopal  
+- 🎓 B.Tech CSE @ Vellore Institute of Technology  
 - 🛠️ I work with **ReactJS, NextJS, NodeJS, MongoDB, Tailwind, Supabase**  
 - ☁️ AWS Certified Solutions Architect | Salesforce Certified  
 - 🤖 Interested in AI, ML & Cloud Projects  
